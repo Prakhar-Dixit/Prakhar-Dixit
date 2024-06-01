@@ -1,4 +1,4 @@
-[![MasterHead](https://e0.pxfuel.com/wallpapers/44/127/desktop-wallpaper-flat-forest-deer-iphone-abstract-horizontal-landscape-nature.jpg)]
+![MasterHead](https://e0.pxfuel.com/wallpapers/44/127/desktop-wallpaper-flat-forest-deer-iphone-abstract-horizontal-landscape-nature.jpg)
 <h1 align="center">Hi 👋, I'm Prakhar Dixit</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 <p align="center">
