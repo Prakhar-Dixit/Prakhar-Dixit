@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prakhar Dixit</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="480" height="271" alt="vintage computer">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar-dixit&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar-dixit" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prakharstwt" target="blank"><img src="https://img.shields.io/twitter/follow/prakharstwt?logo=twitter&style=for-the-badge" alt="prakharstwt" /></a> </p>
